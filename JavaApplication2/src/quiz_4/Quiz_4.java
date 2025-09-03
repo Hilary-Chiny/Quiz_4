@@ -29,7 +29,7 @@ public static void main(String[]arv){
     
     Quiz_4 q = new Quiz_4();
     
-    q.prueba(7,4);
+    q.prueba(7,5);
 }
 }
 
